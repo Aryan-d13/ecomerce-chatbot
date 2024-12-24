@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Headphones",
+        "category": "Electronics",
+        "price": 11707
+    },
+    {
+        "id": 2,
+        "name": "Shirt",
+        "category": "Clothing",
+        "price": 92929
+    },
+    {
+        "id": 3,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 61501
+    },
+    {
+        "id": 4,
+        "name": "Textbook",
+        "category": "Books",
+        "price": 64965
+    },
+    {
+        "id": 5,
+        "name": "Sweater",
+        "category": "Clothing",
+        "price": 56926
+    },
+    {
+        "id": 6,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 69088
+    },
+    {
+        "id": 7,
+        "name": "Camera",
+        "category": "Electronics",
+        "price": 41755
+    },
+    {
+        "id": 8,
+        "name": "Action Figure",
+        "category": "Toys",
+        "price": 3857
+    },
+    {
+        "id": 9,
+        "name": "Non-fiction Book",
+        "category": "Books",
+        "price": 30185
+    },
+    {
+        "id": 10,
+        "name": "Action Figure",
+        "category": "Toys",
+        "price": 923
+    },
+    {
+        "id": 11,
+        "name": "T-shirt",
+        "category": "Clothing",
+        "price": 3288
+    },
+    {
+        "id": 12,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 21072
+    },
+    {
+        "id": 13,
+        "name": "Camera",
+        "category": "Electronics",
+        "price": 4902
+    },
+    {
+        "id": 14,
+        "name": "Microwave",
+        "category": "Home Appliances",
+        "price": 74604
+    },
+    {
+        "id": 15,
+        "name": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 47409
+    },
+    {
+        "id": 16,
+        "name": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 3951
+    },
+    {
+        "id": 17,
+        "name": "Board Game",
+        "category": "Toys",
+        "price": 64110
+    },
+    {
+        "id": 18,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 8613
+    },
+    {
+        "id": 19,
+        "name": "Comics",
+        "category": "Books",
+        "price": 2079
+    },
+    {
+        "id": 20,
+        "name": "Non-fiction Book",
+        "category": "Books",
+        "price": 41089
+    },
+    {
+        "id": 21,
+        "name": "Fiction Book",
+        "category": "Books",
+        "price": 41263
+    },
+    {
+        "id": 22,
+        "name": "Shirt",
+        "category": "Clothing",
+        "price": 15159
+    },
+    {
+        "id": 23,
+        "name": "Jeans",
+        "category": "Clothing",
+        "price": 34362
+    },
+    {
+        "id": 24,
+        "name": "Jacket",
+        "category": "Clothing",
+        "price": 99856
+    },
+    {
+        "id": 25,
+        "name": "Sweater",
+        "category": "Clothing",
+        "price": 60399
+    },
+    {
+        "id": 26,
+        "name": "T-shirt",
+        "category": "Clothing",
+        "price": 49463
+    },
+    {
+        "id": 27,
+        "name": "Textbook",
+        "category": "Books",
+        "price": 12837
+    },
+    {
+        "id": 28,
+        "name": "Doll",
+        "category": "Toys",
+        "price": 32682
+    },
+    {
+        "id": 29,
+        "name": "Jacket",
+        "category": "Clothing",
+        "price": 63264
+    },
+    {
+        "id": 30,
+        "name": "Shirt",
+        "category": "Clothing",
+        "price": 44400
+    },
+    {
+        "id": 31,
+        "name": "Non-fiction Book",
+        "category": "Books",
+        "price": 23506
+    },
+    {
+        "id": 32,
+        "name": "Non-fiction Book",
+        "category": "Books",
+        "price": 91855
+    },
+    {
+        "id": 33,
+        "name": "Blender",
+        "category": "Home Appliances",
+        "price": 7352
+    },
+    {
+        "id": 34,
+        "name": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 69887
+    },
+    {
+        "id": 35,
+        "name": "Action Figure",
+        "category": "Toys",
+        "price": 38855
+    },
+    {
+        "id": 36,
+        "name": "Fiction Book",
+        "category": "Books",
+        "price": 77248
+    },
+    {
+        "id": 37,
+        "name": "Microwave",
+        "category": "Home Appliances",
+        "price": 17275
+    },
+    {
+        "id": 38,
+        "name": "Puzzle",
+        "category": "Toys",
+        "price": 62886
+    },
+    {
+        "id": 39,
+        "name": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 45931
+    },
+    {
+        "id": 40,
+        "name": "Camera",
+        "category": "Electronics",
+        "price": 64188
+    },
+    {
+        "id": 41,
+        "name": "T-shirt",
+        "category": "Clothing",
+        "price": 6703
+    },
+    {
+        "id": 42,
+        "name": "Sweater",
+        "category": "Clothing",
+        "price": 28373
+    },
+    {
+        "id": 43,
+        "name": "Non-fiction Book",
+        "category": "Books",
+        "price": 57428
+    },
+    {
+        "id": 44,
+        "name": "Magazine",
+        "category": "Books",
+        "price": 77690
+    },
+    {
+        "id": 45,
+        "name": "Magazine",
+        "category": "Books",
+        "price": 55262
+    },
+    {
+        "id": 46,
+        "name": "Comics",
+        "category": "Books",
+        "price": 53678
+    },
+    {
+        "id": 47,
+        "name": "Board Game",
+        "category": "Toys",
+        "price": 62502
+    },
+    {
+        "id": 48,
+        "name": "Blender",
+        "category": "Home Appliances",
+        "price": 15373
+    },
+    {
+        "id": 49,
+        "name": "Headphones",
+        "category": "Electronics",
+        "price": 74787
+    },
+    {
+        "id": 50,
+        "name": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 97737
+    },
+    {
+        "id": 51,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 53852
+    },
+    {
+        "id": 52,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 76725
+    },
+    {
+        "id": 53,
+        "name": "Textbook",
+        "category": "Books",
+        "price": 31674
+    },
+    {
+        "id": 54,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 11945
+    },
+    {
+        "id": 55,
+        "name": "Action Figure",
+        "category": "Toys",
+        "price": 11495
+    },
+    {
+        "id": 56,
+        "name": "Board Game",
+        "category": "Toys",
+        "price": 65854
+    },
+    {
+        "id": 57,
+        "name": "Board Game",
+        "category": "Toys",
+        "price": 8838
+    },
+    {
+        "id": 58,
+        "name": "Headphones",
+        "category": "Electronics",
+        "price": 84332
+    },
+    {
+        "id": 59,
+        "name": "Jacket",
+        "category": "Clothing",
+        "price": 21530
+    },
+    {
+        "id": 60,
+        "name": "Camera",
+        "category": "Electronics",
+        "price": 91208
+    },
+    {
+        "id": 61,
+        "name": "Blender",
+        "category": "Home Appliances",
+        "price": 39188
+    },
+    {
+        "id": 62,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 37776
+    },
+    {
+        "id": 63,
+        "name": "Puzzle",
+        "category": "Toys",
+        "price": 33060
+    },
+    {
+        "id": 64,
+        "name": "Non-fiction Book",
+        "category": "Books",
+        "price": 93179
+    },
+    {
+        "id": 65,
+        "name": "Shirt",
+        "category": "Clothing",
+        "price": 53879
+    },
+    {
+        "id": 66,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 93001
+    },
+    {
+        "id": 67,
+        "name": "Action Figure",
+        "category": "Toys",
+        "price": 46463
+    },
+    {
+        "id": 68,
+        "name": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 1434
+    },
+    {
+        "id": 69,
+        "name": "Doll",
+        "category": "Toys",
+        "price": 5688
+    },
+    {
+        "id": 70,
+        "name": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 67669
+    },
+    {
+        "id": 71,
+        "name": "Jacket",
+        "category": "Clothing",
+        "price": 34241
+    },
+    {
+        "id": 72,
+        "name": "Textbook",
+        "category": "Books",
+        "price": 23675
+    },
+    {
+        "id": 73,
+        "name": "T-shirt",
+        "category": "Clothing",
+        "price": 27444
+    },
+    {
+        "id": 74,
+        "name": "Microwave",
+        "category": "Home Appliances",
+        "price": 74698
+    },
+    {
+        "id": 75,
+        "name": "Fiction Book",
+        "category": "Books",
+        "price": 63002
+    },
+    {
+        "id": 76,
+        "name": "Doll",
+        "category": "Toys",
+        "price": 99952
+    },
+    {
+        "id": 77,
+        "name": "Comics",
+        "category": "Books",
+        "price": 75026
+    },
+    {
+        "id": 78,
+        "name": "Puzzle",
+        "category": "Toys",
+        "price": 22315
+    },
+    {
+        "id": 79,
+        "name": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 42420
+    },
+    {
+        "id": 80,
+        "name": "Camera",
+        "category": "Electronics",
+        "price": 74403
+    },
+    {
+        "id": 81,
+        "name": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 97938
+    },
+    {
+        "id": 82,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 35707
+    },
+    {
+        "id": 83,
+        "name": "Headphones",
+        "category": "Electronics",
+        "price": 52929
+    },
+    {
+        "id": 84,
+        "name": "Shirt",
+        "category": "Clothing",
+        "price": 6555
+    },
+    {
+        "id": 85,
+        "name": "Sweater",
+        "category": "Clothing",
+        "price": 17645
+    },
+    {
+        "id": 86,
+        "name": "Textbook",
+        "category": "Books",
+        "price": 24034
+    },
+    {
+        "id": 87,
+        "name": "Fiction Book",
+        "category": "Books",
+        "price": 86096
+    },
+    {
+        "id": 88,
+        "name": "Board Game",
+        "category": "Toys",
+        "price": 46568
+    },
+    {
+        "id": 89,
+        "name": "Jacket",
+        "category": "Clothing",
+        "price": 41468
+    },
+    {
+        "id": 90,
+        "name": "Comics",
+        "category": "Books",
+        "price": 13326
+    },
+    {
+        "id": 91,
+        "name": "Blender",
+        "category": "Home Appliances",
+        "price": 11996
+    },
+    {
+        "id": 92,
+        "name": "RC Car",
+        "category": "Toys",
+        "price": 90301
+    },
+    {
+        "id": 93,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 85752
+    },
+    {
+        "id": 94,
+        "name": "Comics",
+        "category": "Books",
+        "price": 13687
+    },
+    {
+        "id": 95,
+        "name": "RC Car",
+        "category": "Toys",
+        "price": 59575
+    },
+    {
+        "id": 96,
+        "name": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 95402
+    },
+    {
+        "id": 97,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 79679
+    },
+    {
+        "id": 98,
+        "name": "Action Figure",
+        "category": "Toys",
+        "price": 91088
+    },
+    {
+        "id": 99,
+        "name": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 94477
+    },
+    {
+        "id": 100,
+        "name": "Non-fiction Book",
+        "category": "Books",
+        "price": 74147
+    }
+]
