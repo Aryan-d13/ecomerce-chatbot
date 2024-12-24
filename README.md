@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+# E-commerce Sales Chatbot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project implements an interactive e-commerce sales chatbot designed to improve the shopping experience. The chatbot allows users to search, explore, and interact with products via a simple, intuitive interface.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Responsive UI compatible with desktop, tablet, and mobile devices.
+- Google Login for secure user sessions.
+- Product search functionality via chatbot interface.
+- Conversation reset and session persistence.
+- Flask-based backend for product data fetching.
+- Mock database with 100+ e-commerce product entries.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+### Frontend:
+- React (JavaScript)
+- Firebase Authentication
+- Responsive design with modern CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Backend:
+- Flask (Python)
+- RESTful API
 
-### `npm run build`
+### Database:
+- Mock JSON-based data with 100+ product entries
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Setup Instructions
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Backend:
+1. Navigate to the `backend` folder:
+   ```bash
+   cd backend
+   ```
+2. Install Python dependencies:
+   ```bash
+   pip install flask flask-cors
+   ```
+3. Run the Flask server:
+   ```bash
+   python app.py
+   ```
 
-### `npm run eject`
+### Frontend:
+1. Navigate to the `frontend` folder:
+   ```bash
+   cd ecommerce-chatbot
+   ```
+2. Install Node.js dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the React development server:
+   ```bash
+   npm start
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## API Endpoints
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **GET /products**: Returns the list of all products.
+  Example response:
+  ```json
+  [
+    { "id": 1, "name": "Laptop", "category": "Electronics", "price": 50000 },
+    { "id": 2, "name": "Smartphone", "category": "Electronics", "price": 20000 }
+  ]
+  ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Challenges Faced
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. **Login Authentication**:
+   - Difficulty integrating Google Login with React.  
+   - Solution: Firebase Authentication with Google Provider simplified the process.  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. **Session Persistence**:
+   - Maintaining chat history across sessions.  
+   - Solution: Used `localStorage` to store messages.  
 
-### Code Splitting
+3. **Mock Data Generation**:
+   - Generating a realistic dataset for the mock e-commerce platform.  
+   - Solution: Used custom scripts and tools like Mockaroo.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Login Screen:
+![alt text](image.png)
 
-### Making a Progressive Web App
+### Chatbot Interface:
+![alt text](image-1.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Aryan Sharma
